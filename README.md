@@ -9,7 +9,7 @@ T3A2-A
 ## - Purpose
 
 - The purpose of our application is to showcase all the parks and parklands around an area of choice, in Australia.
-We will be adding functions like whethere or not it has rest-rooms, dog parks, if there is shelter and lighting and much more.
+We will be adding functions like whether or not it has rest-rooms, dog parks, if there is shelter and lighting and much more.It would include information about Accessibility, rest room, Entry for dogs,Cafe, Exercise equipment and other facilities , Parking etc. The visitor will have all information regarding the park to make decision prior to visit. Our aim is to provide as much as information which would eventually help people to visit the Park stress free. 
 
 ## - Functionality / features
 
@@ -17,11 +17,11 @@ We will be adding functions like whethere or not it has rest-rooms, dog parks, i
 
 ## - Target audience
 
-
+Parents, Dog Owners/Walkers, Health enthusiasts, Coffee lovers, Park Visitors ,Tourists 
 
 ## - Tech stack	GENERAL
 
-- Our general tech stack that we are using is React as a front end, which is styled with some CSS
+- Our general tech stack that we are using is React as a front end, which is styled with some CSS.
 
 # R2	Dataflow Diagram
 
