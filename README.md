@@ -17,10 +17,11 @@ We will be adding functions like whether or not it has rest-rooms, dog parks, if
 - Google API will be the main keypoint for providing information of the location of the park which would enable users to locate parkland via postcode.
 - Further, user will be able to filter --
   - Search through postcode
+  - Play equipment
   - Cafe which would further filtered by their menu avability
   - Avaibility of Exercise equipments,
   - Facility of Car/Scooter parking
-  - Permission for Dog entry/No entry
+  - Permission for Pet entry/No entry
   - Avaibility of restrooms
   - Avaibility of parents room/ nappy change room
   - Shade or No shade
@@ -28,6 +29,7 @@ We will be adding functions like whether or not it has rest-rooms, dog parks, if
   - Rest room for adults
   - Showers
   - Avaibility of barbeque/cooking facility
+  - Safety equipment
   - Access to water play
   - Fence around the park
   - Ease of public transport
@@ -36,6 +38,8 @@ We will be adding functions like whether or not it has rest-rooms, dog parks, if
   - Phone charging facility
   - Internet access
   - Events by council at the park
+  
+  
 - User will have individual profiles which let them interact with other users. It would also enable them to add comments or further review what user have posted to the application.
 - Users can create their friend list. Like, Add/ remove friends which further permits them to see what their friends have posted or replied to other users.
 - There will be notification alert for the users whenever their friends posted or replied to other user's post
