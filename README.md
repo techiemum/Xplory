@@ -37,9 +37,7 @@ We will be adding functions like whether or not it has rest-rooms, dog parks, if
   - Lighting
   - Phone charging facility
   - Internet access
-  - Events by council at the park
-  
-  
+  - Events by council at the park   
 - User will have individual profiles which let them interact with other users. It would also enable them to add comments or further review what user have posted to the application.
 - Users can create their friend list. Like, Add/ remove friends which further permits them to see what their friends have posted or replied to other users.
 - There will be notification alert for the users whenever their friends posted or replied to other user's post
@@ -79,9 +77,9 @@ We will be adding functions like whether or not it has rest-rooms, dog parks, if
 
 ## - Tech stack	GENERAL
 
-- Our general tech stack that we are using is React as a front end, which is styled with some CSS.
+- MERN
+- Google API
 
-React
 
 
 
