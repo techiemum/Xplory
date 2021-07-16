@@ -31,14 +31,15 @@ We will be adding functions like whether or not it has rest-rooms, dog parks, if
   - Access to water play
   - Fence around the park
   - Ease of public transport
-  - Power supply
+  - Power/Electricity supply
   - Lighting
   - Phone charging facility
   - Internet access
   - Events by council at the park
 - User will have individual profiles which let them interact with other users. It would also enable them to add comments or further review what user have posted to the application.
 - Users can create their friend list. Like, Add/ remove friends which further permits them to see what their friends have posted or replied to other users.
-- Users can directly message another users .
+- There will be notification alert for the users whenever their friends posted or replied to other user's post
+- Users can directly message other users whom they have added as a friend.
 - Application has an admin feature.The admin profiles will enable Admins to delete/filter comments Add/Remove users. It will also authenticate data provided by users. Admin roles will be able to scan the profiles and photos of user to confirm that user is not breaching any rules of the Applications. Further, Admins will have access to the post/reply of users they have made under the profiles.
 
 
