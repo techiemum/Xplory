@@ -13,7 +13,34 @@ We will be adding functions like whether or not it has rest-rooms, dog parks, if
 
 ## - Functionality / features
 
-- The functionality of the application is 
+- The functionality of the application is to let users add pictures of the various parklands of the city .User will be enable to add ratings , features , facilities and convinience.
+- Google API will be the main keypoint for providing information of the location of the park which would enable users to locate parkland via postcode.
+- Further, user will be able to filter --
+  Search through postcode
+  Cafe which would further filtered by their menu avability
+  Avaibility of Exercise equipments
+  Facility of Car/Scooter parking
+  Permission for Dog entry/No entry
+  Avaibility of restrooms
+  Avaibility of parents room/ nappy change room
+  Shade or No shade
+  Accebility for the disable requirements
+  Rest room for adults
+  Showers
+  Avaibility of barbeque/cooking facility
+  Access to water play
+  Fence around the park
+  Ease of public transport
+  Power supply
+  Lighting
+  Phone charging facility
+  Internet access
+  Events by council at the park
+- User will have individual profiles which let them interact with other users. It would also enable them to add comments or further review what user have posted to the application.
+-   
+
+
+
 
 ## - Target audience
 
@@ -22,6 +49,10 @@ Parents, Dog Owners/Walkers, Health enthusiasts, Coffee lovers, Park Visitors ,T
 ## - Tech stack	GENERAL
 
 - Our general tech stack that we are using is React as a front end, which is styled with some CSS.
+
+React
+
+
 
 # R2	Dataflow Diagram
 
@@ -39,6 +70,24 @@ Parents, Dog Owners/Walkers, Health enthusiasts, Coffee lovers, Park Visitors ,T
 
 # R6	Screenshots of your Trello board throughout the duration of the project
 *Select and follow a commonly used planning methodology, such as Kanban, Trello, Jira, or Asana.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 T3A2-B
