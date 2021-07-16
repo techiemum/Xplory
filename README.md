@@ -40,7 +40,26 @@ We will be adding functions like whether or not it has rest-rooms, dog parks, if
 - Users can create their friend list. Like, Add/ remove friends which further permits them to see what their friends have posted or replied to other users.
 - There will be notification alert for the users whenever their friends posted or replied to other user's post
 - Users can directly message other users whom they have added as a friend.
+- USer side functionality breadown 
+    - Login/Logout
+    - Profile with picture
+    - Create/Add information
+    - Rate or evaluate Park facility
+    - Upload picture of the park
+    - Add/Remove friends
+    - Notification of friends post
+    - Direct message to friends
 - Application has an admin feature.The admin profiles will enable Admins to delete/filter comments Add/Remove users. It will also authenticate data provided by users. Admin roles will be able to scan the profiles and photos of user to confirm that user is not breaching any rules of the Applications. Further, Admins will have access to the post/reply of users they have made under the profiles.
+- Admin side funcionality breakdow
+    - Login/Logout
+    - Profile with picture
+    - Create/Remove information
+    - Add/remove users
+    - Add/remove comments/posts
+    - Direct message to all users
+    - Notification or announcement
+    - Add/remove/Authenticate data uploaded by user
+
 
 
 
