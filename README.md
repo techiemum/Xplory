@@ -85,6 +85,8 @@ We will be adding functions like whether or not it has rest-rooms, dog parks, if
 
 # R2	Dataflow Diagram
 
+![DatFlow Diagram](https://app.diagrams.net/#G1QhasiEF90QMLbIBCF8g_p0F16WFbn_hj"DFD")
+
 
 # R3	Application Architecture Diagram
 
