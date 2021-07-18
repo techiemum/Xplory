@@ -93,6 +93,7 @@ We will be adding functions like whether or not it has rest-rooms, dog parks, if
 # R4	User Stories
 *Provide UX/UI design documentation(user stories) that adequately show Agile methodology implementation.*
 
+
 # R5	Wireframes for multiple standard screen sizes, created using industry standard software
 *Provide UX/UI design documentation(wireframes) that adequately show Agile methodology implementation.*
 
