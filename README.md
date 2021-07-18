@@ -13,22 +13,22 @@ We will be adding functions like whether or not it has rest-rooms, dog parks, if
 
 ## - Functionality / features
 
-- The functionality of the application is to let users add pictures of the various parklands of the city .User will be enable to add ratings , features , facilities and convinience.
-- Google API will be the main keypoint for providing information of the location of the park which would enable users to locate parkland via postcode.
+- The functionality of the application is to let users add pictures of the various parklands of the city .User will be enable to add ratings , features , facilities and convenience.
+- Google API will be the main key point for providing information of the location of the park which would enable users to locate parkland via postcode.
 - Further, user will be able to filter --
   - Search through postcode
   - Play equipment
-  - Cafe which would further filtered by their menu avability
-  - Avaibility of Exercise equipments,
+  - Cafe which would further filtered by their menu availability
+  - availability of Exercise equipments,
   - Facility of Car/Scooter parking
   - Permission for Pet entry/No entry
-  - Avaibility of restrooms
-  - Avaibility of parents room/ nappy change room
+  - availability of restrooms
+  - availability of parents room/ nappy change room
   - Shade or No shade
-  - Accebility for the disable requirements
+  - Accessability for the disable requirements
   - Rest room for adults
   - Showers
-  - Avaibility of barbeque/cooking facility
+  - availability of barbecue/cooking facility
   - Safety equipment
   - Access to water play
   - Fence around the park
@@ -42,7 +42,7 @@ We will be adding functions like whether or not it has rest-rooms, dog parks, if
 - Users can create their friend list. Like, Add/ remove friends which further permits them to see what their friends have posted or replied to other users.
 - There will be notification alert for the users whenever their friends posted or replied to other user's post
 - Users can directly message other users whom they have added as a friend.
-- USer side functionality breadown 
+- USer side functionality breakdown 
     - Login/Logout
     - Profile with picture
     - Create/Add information
@@ -52,7 +52,7 @@ We will be adding functions like whether or not it has rest-rooms, dog parks, if
     - Notification of friends post
     - Direct message to friends
 - Application has an admin feature.The admin profiles will enable Admins to delete/filter comments Add/Remove users. It will also authenticate data provided by users. Admin roles will be able to scan the profiles and photos of user to confirm that user is not breaching any rules of the Applications. Further, Admins will have access to the post/reply of users they have made under the profiles.
-- Admin side funcionality breakdow
+- Admin side functionality breakdown
     - Login/Logout
     - Profile with picture
     - Create/Remove information
