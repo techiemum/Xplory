@@ -105,7 +105,13 @@ I have four big huskies and need to find new parks to take them where I can let 
 
 
 # R6	Screenshots of your Trello board throughout the duration of the project
-*Select and follow a commonly used planning methodology, such as Kanban, Trello, Jira, or Asana.*
+![trello-image-1](https://user-images.githubusercontent.com/72952429/126571883-d3a7ce6f-db4c-4e1e-88d2-3461b12fe622.png)
+
+![trello-image-2](https://user-images.githubusercontent.com/72952429/126571884-f1c15b64-a09c-4ff0-8c43-78caa0137304.png)
+
+![trello-image-3](https://user-images.githubusercontent.com/72952429/126571886-ab337482-6651-4e48-9acf-12beac1aed05.png)
+
+![trello-image-4](https://user-images.githubusercontent.com/72952429/126571891-baa81972-5e36-45e4-a4f6-4b39ba3efbc4.png)
 
 
 
@@ -126,7 +132,7 @@ I have four big huskies and need to find new parks to take them where I can let 
 
 
 
-T3A2-B
+
 
 
 # CODE REQUIREMENTS
