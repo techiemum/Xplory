@@ -93,7 +93,11 @@ We will be adding functions like whether or not it has rest-rooms, dog parks, if
 
 
 # R4	User Stories
-*Provide UX/UI design documentation(user stories) that adequately show Agile methodology implementation.*
+I love to take my family out on picks, I want an easy way to find new places to take them so we can enjoy the fresh and new scenery together. 
+
+As a young sporty teenager, I want to find convenient places to kick a footy with my mates. I need it to be big enough that we won't send the ball across the road or into someone's window.
+
+I have four big huskies and need to find new parks to take them where I can let them off the leash and have them safely run around an enclosed environment. It would be great if the park was popular with other dogs so they can play together.
 
 
 # R5	Wireframes for multiple standard screen sizes, created using industry standard software
@@ -148,7 +152,6 @@ In the production environment
 ## R9	Utilises a formal testing framework
 ## R10	A link (URL) to your deployed website
 ## R11	A link to your GitHub repository (repo)
-Ensure the repo is accessible by your educators!
 ## R12	The contents of your README.md as submitted for Full Stack App - Part A
 
 
