@@ -84,7 +84,7 @@ We will be adding functions like whether or not it has rest-rooms, dog parks, if
 
 
 # R2	Dataflow Diagram
-
+![DFD](https://user-images.githubusercontent.com/72952429/126571742-85109679-c060-4200-a355-b83b09896c2b.JPG)
 ![DatFlow Diagram](https://app.diagrams.net/#G1QhasiEF90QMLbIBCF8g_p0F16WFbn_hj"DFD")
 
 
