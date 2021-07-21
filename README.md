@@ -89,7 +89,7 @@ We will be adding functions like whether or not it has rest-rooms, dog parks, if
 
 
 # R3	Application Architecture Diagram
-
+![application-architecture-diagram](https://user-images.githubusercontent.com/72952429/126432312-34f8c145-a58f-4af0-b230-4d5020ff10e0.JPG)
 
 
 # R4	User Stories
