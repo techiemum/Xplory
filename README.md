@@ -119,7 +119,14 @@ We are new to the area, and I need to know where a good parkland is nearby for m
 *Provide UX/UI design documentation(wireframes) that adequately show Agile methodology implementation.*
 
 - For our wireframes, we used an application called Miro.
-  It is a great app and users can work on the same project at the same time, and be able to download it later on in low quality mode.
+  It is a great app and users can work on the same project at the same time, and be able to download it later on in low quality mode for free for 3 instances. We found a lot of other applications not to be as easy to use and adequate for our needs.
+
+## WireFrames Over View
+
+![PlayPal_wireframes](https://user-images.githubusercontent.com/72953372/126585828-7f6e1790-28d6-40cb-a311-a55013ce90c8.png)
+
+
+
 ## Mobile Wireframes
 
 ![mobile_wf1](https://user-images.githubusercontent.com/72953372/126584893-52787a21-309c-44d4-a90c-605439b506bb.png)
