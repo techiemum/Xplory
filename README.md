@@ -1,76 +1,69 @@
 # PlayPal
 The final assessment for Brisbane Coder Academy, working in a team of 3 
 
-
-
-T3A2-A
-# R1	Description of your website, including:
-*Utilise an industry standard program for creation of wireframes*
-
- 
 ## - Purpose
-
 - The purpose of our application is to showcase all the parks and parklands around an area of choice, in Australia.
-We will be adding functions like whether or not it has rest-rooms, dog parks, if there is shelter and lighting and much more.It would include information about Accessibility, rest room, Entry for dogs,Cafe, Exercise equipment and other facilities , Parking etc. The visitor will have all information regarding the park to make decision prior to visit. Our aim is to provide as much as information which would eventually help people to visit the Park stress free. 
+We will be adding functions like whether or not it has restrooms, dog fence, shelter, lighting, and much more. It would include information about Accessibility, restroom, entry for dogs, location of the nearest cafes, exercise equipment and other facilities, Parking etc. The visitor will have all information regarding the park to make a decision before their visit. We aim to provide as much as information which would eventually help people to visit the Park stress-free. 
 
 ## - Functionality / features
-
-- The functionality of the application is to let users add pictures of the various parklands of the city .User will be enable to add ratings , features , facilities and convenience.
-- Google API will be the main key point for providing information of the location of the park which would enable users to locate parkland via postcode.
-- Further, user will be able to filter --
+- The functionality of the application is to let users add pictures of the various parklands of the city. They will be able to rate other posts and locations  based on features, facilities, and conveniences in and around the park
+- Google API will be the main key point for providing information on the location of the park which would enable users to locate parkland via postcode.
+- Further, the user will be able to filter --
   - Search through postcode
   - Play equipment
-  - Cafe which would further filtered by their menu availability
-  - availability of Exercise equipments,
-  - Facility of Car/Scooter parking
-  - Permission for Pet entry/No entry
-  - availability of restrooms
-  - availability of parents room/ nappy change room
+  - Water park
+  - Cafe which would be further filtered by their menu availability
+  - Availability of exercise equipment,
+  - Facility of car/scooter parking
+  - Permission for pet entry/no entry
+  - Availability of restrooms
+  - Availability of parents room/ nappy change room
   - Shade or No shade
-  - Accessability for the disable requirements
-  - Rest room for adults
+  - Accessibility for people with disabilities
+  - Restroom
   - Showers
-  - availability of barbecue/cooking facility
+  - Availability of barbecue/cooking facility
   - Safety equipment
-  - Access to water play
   - Fence around the park
   - Ease of public transport
   - Power/Electricity supply
   - Lighting
   - Phone charging facility
   - Internet access
-  - Events by council at the park   
-- User will have individual profiles which let them interact with other users. It would also enable them to add comments or further review what user have posted to the application.
-- Users can create their friend list. Like, Add/ remove friends which further permits them to see what their friends have posted or replied to other users.
-- There will be notification alert for the users whenever their friends posted or replied to other user's post
+  - Events by the council at the park   
+- Users will have individual profiles which let them interact with other users. It would also enable them to add comments or further review what other users have posted to the app.
+- Users can create their friend list, add/ remove friends which further permits them to see what their friends have posted or replied to other users.
+- Users can toggle on or off being notified about their friends' activity on the app in regards to posting, commenting, and liking.
 - Users can directly message other users whom they have added as a friend.
-- USer side functionality breakdown 
-    - Login/Logout
-    - Profile with picture
-    - Create/Add information
-    - Rate or evaluate Park facility
-    - Upload picture of the park
-    - Add/Remove friends
-    - Notification of friends post
-    - Direct message to friends
-- Application has an admin feature.The admin profiles will enable Admins to delete/filter comments Add/Remove users. It will also authenticate data provided by users. Admin roles will be able to scan the profiles and photos of user to confirm that user is not breaching any rules of the Applications. Further, Admins will have access to the post/reply of users they have made under the profiles.
+- User side functionality breakdown 
+  - Login/Logout
+  - Profile with picture
+  - Create/Add information
+  - Rate or evaluate Park facility
+  - Upload a picture of the park
+  - Add/Remove friends
+  - Notification of friends post
+  - Direct message to friends
+- Application has an admin feature. The admin profiles will enable Admins to delete/filter comments Add/Remove users. It will also authenticate data provided by users. Admin roles will be able to scan the profiles and photos of users to confirm that the user is not breaching the code of conduct. Further, admins will have access to the post/reply of users they have made under the profiles.
 - Admin side functionality breakdown
-    - Login/Logout
-    - Profile with picture
-    - Create/Remove information
-    - Add/remove users
-    - Add/remove comments/posts
-    - Direct message to all users
-    - Notification or announcement
-    - Add/remove/Authenticate data uploaded by user
+  - Login/Logout
+  - Profile with picture
+  - Create/Remove information
+  - Add/remove users
+  - Add/remove comments/posts
+  - Direct message to all users
+  - Notification or announcement
+  - Add/remove/Authenticate data uploaded by the user
 
 
 ## - Target audience
 
 - Parents
+- Young adults 
+- Teens
 - Dog Owners/Walkers
 - Health enthusiasts 
-- Coffee lovers 
+- Caffeine enthusiast 
 - Park Visitors
 - Tourists 
 
