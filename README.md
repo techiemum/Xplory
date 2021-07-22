@@ -101,6 +101,16 @@ As a young sporty teenager, I want to find convenient places to kick a footy wit
 
 I have four big huskies and need to find new parks to take them where I can let them off the leash and have them safely run around an enclosed environment. It would be great if the park was popular with other dogs so they can play together.
 
+As A Football player,
+I want to have enough room to kick a football and run around, I would also know if there is an exercise equipement so I can do a quick cardio session,
+So I need to know there is a big oval with goals, water nearby if im running around and getting thirsty, and if im home late from school there will be lighting in the area.
+
+As a dog owner,
+I want to know if theres a facility around me to bring my dogs for a run, I would like a dog park. I work late some nights as well,
+So I would like a good amount of room for my dog to run around and be in a fenced area with a few  ramps and jumps to practice. Also some lighting if its late and water for myself and my dog would be great. My dog runs and I take my bike, so some bike parking locally would be a major plus.
+
+As a parent of 3 kids,
+We are new to the area, and I need to know where a good parkland is nearby for my children, they are young and require them to have a fence around. They are kids that love water, so a water-park would be preferred. I have one kid with a disability and he has a wheel chair, so I require disabled parking and access with a wheel chair to the park area. As they are running around we would require water fountains and bathroom facilities with a shower.
 
 
 # R5	Wireframes for multiple standard screen sizes, created using industry standard software
