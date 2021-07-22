@@ -85,14 +85,16 @@ We will be adding functions like whether or not it has rest-rooms, dog parks, if
 
 # R2	Dataflow Diagram
 ![DFD](https://user-images.githubusercontent.com/72952429/126571742-85109679-c060-4200-a355-b83b09896c2b.JPG)
-![DatFlow Diagram](https://app.diagrams.net/#G1QhasiEF90QMLbIBCF8g_p0F16WFbn_hj"DFD")
-
 
 # R3	Application Architecture Diagram
 ![application-architecture-diagram](https://user-images.githubusercontent.com/72952429/126432312-34f8c145-a58f-4af0-b230-4d5020ff10e0.JPG)
 
 
 # R4	User Stories
+
+![userstory-asmaa](https://user-images.githubusercontent.com/72952429/126575566-6c4d946b-c9a8-406e-9c96-6f76fdcc6c6f.png)
+
+
 I love to take my family out on picks, I want an easy way to find new places to take them so we can enjoy the fresh and new scenery together. 
 
 As a young sporty teenager, I want to find convenient places to kick a footy with my mates. I need it to be big enough that we won't send the ball across the road or into someone's window.
