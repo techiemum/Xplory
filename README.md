@@ -65,8 +65,6 @@ We will be adding functions like whether or not it has rest-rooms, dog parks, if
     - Add/remove/Authenticate data uploaded by user
 
 
-
-
 ## - Target audience
 
 - Parents
@@ -79,11 +77,10 @@ We will be adding functions like whether or not it has rest-rooms, dog parks, if
 
 ## - Tech stack	GENERAL
 
-- MERN
+- MongoDB, Express, React, Node
 - Google API
-
-
-
+- Heroku 
+- Cloudinary 
 
 # R2	Dataflow Diagram
 ![DFD](https://user-images.githubusercontent.com/72952429/126571742-85109679-c060-4200-a355-b83b09896c2b.JPG)
@@ -104,7 +101,7 @@ As a young sporty teenager, I want to find convenient places to kick a footy wit
 I have four big huskies and need to find new parks to take them where I can let them off the leash and have them safely run around an enclosed environment. It would be great if the park was popular with other dogs so they can play together.
 
 As A Football player,
-I want to have enough room to kick a football and run around, I would also know if there is an exercise equipement so I can do a quick cardio session,
+I want to have enough room to kick a football and run around, I would also know if there is an exercise equipment so I can do a quick cardio session,
 So I need to know there is a big oval with goals, water nearby if im running around and getting thirsty, and if im home late from school there will be lighting in the area.
 
 As a dog owner,
