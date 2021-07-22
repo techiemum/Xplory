@@ -6,6 +6,8 @@ The final assessment for Brisbane Coder Academy, working in a team of 3
 T3A2-A
 # R1	Description of your website, including:
 *Utilise an industry standard program for creation of wireframes*
+
+ 
 ## - Purpose
 
 - The purpose of our application is to showcase all the parks and parklands around an area of choice, in Australia.
@@ -115,6 +117,28 @@ We are new to the area, and I need to know where a good parkland is nearby for m
 
 # R5	Wireframes for multiple standard screen sizes, created using industry standard software
 *Provide UX/UI design documentation(wireframes) that adequately show Agile methodology implementation.*
+
+- For our wireframes, we used an application called Miro.
+  It is a great app and users can work on the same project at the same time, and be able to download it later on in low quality mode.
+## Mobile Wireframes
+
+![mobile_wf1](https://user-images.githubusercontent.com/72953372/126584893-52787a21-309c-44d4-a90c-605439b506bb.png)
+![mobile_wf2](https://user-images.githubusercontent.com/72953372/126584914-a135a29e-4a66-47bc-88b8-fe84197e57fa.png)
+
+
+## Tablet Wireframes
+
+![desktop_wf1](https://user-images.githubusercontent.com/72953372/126584937-b418f8f5-ccb0-440b-85a0-f27feee24d8a.png)
+![desktop_wf2](https://user-images.githubusercontent.com/72953372/126584949-d192e36d-872c-4c2e-8cd3-f116c87fbe72.png)
+![desktop_wf3](https://user-images.githubusercontent.com/72953372/126584968-55ba182c-a720-448f-9d18-deb2918d3811.png)
+
+
+
+## Desktop Wireframes
+
+![desktop_wf1](https://user-images.githubusercontent.com/72953372/126584758-4c9b9db5-d356-4cfd-9a15-a7922bd7c375.png)
+![desktop_wf2](https://user-images.githubusercontent.com/72953372/126584815-6103b42f-df0a-4008-80e4-f3c1263734e8.png)
+![desktop_wf3](https://user-images.githubusercontent.com/72953372/126584830-9db7c974-f0a3-47b3-abc7-a037ab37b077.png)
 
 
 # R6	Screenshots of your Trello board throughout the duration of the project
