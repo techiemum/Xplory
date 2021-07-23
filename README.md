@@ -1,11 +1,22 @@
+# Index
+1. [Purpose](#purpose)
+2. [Functionality](#functionality)
+3. [Target audience](#target-audience)
+4. [Tech stack](#tech-stack)
+5. [Dataflow Diagram](#dataflow-diagram)
+6. [Application Architecture Diagram](#application-architecture-diagram)
+7. [User Stories](#user-stories)
+8. [Wireframes](#wireframes)
+9. [Trello Progress](#trello-progress)
+
 # Xplory
 The final assessment for Brisbane Coder Academy, working in a team of 3 
 
-## - Purpose
+# Purpose
 - The purpose of our application is to showcase all the parks and parklands around an area of choice, in Australia.
 We will be adding functions like whether or not it has restrooms, dog fence, shelter, lighting, and much more. It would include information about Accessibility, restroom, entry for dogs, location of the nearest cafes, exercise equipment and other facilities, Parking etc. The visitor will have all information regarding the park to make a decision before their visit. We aim to provide as much as information which would eventually help people to visit the Park stress-free. 
 
-## - Functionality / features
+# Functionality
 - The functionality of the application is to let users add pictures of the various parklands of the city. They will be able to rate other posts and locations  based on features, facilities, and conveniences in and around the park
 - Google API will be the main key point for providing information on the location of the park which would enable users to locate parkland via postcode.
 - Further, the user will be able to filter --
@@ -56,7 +67,7 @@ We will be adding functions like whether or not it has restrooms, dog fence, she
   - Add/remove/Authenticate data uploaded by the user
 
 
-## - Target audience
+# Target audience
 
 - Parents
 - Young adults 
@@ -68,21 +79,21 @@ We will be adding functions like whether or not it has restrooms, dog fence, she
 - Tourists 
 
 
-## - Tech stack	GENERAL
+# Tech stack
 
 - MongoDB, Express, React, Node
 - Google API
 - Heroku 
 - Cloudinary 
 
-# R2	Dataflow Diagram
+# Dataflow Diagram
 ![DFD](https://user-images.githubusercontent.com/72952429/126571742-85109679-c060-4200-a355-b83b09896c2b.JPG)
 
-# R3	Application Architecture Diagram
-![application-architecture-diagram](https://user-images.githubusercontent.com/72952429/126432312-34f8c145-a58f-4af0-b230-4d5020ff10e0.JPG)
+# Application Architecture Diagram
+![application-architecture-diagram](https://user-images.githubusercontent.com/72952429/126722994-55c62725-4c8e-4efe-a140-b45cdd981939.JPG)
 
 
-# R4	User Stories
+# User Stories
 
 ![userstory-asmaa](https://user-images.githubusercontent.com/72952429/126575566-6c4d946b-c9a8-406e-9c96-6f76fdcc6c6f.png)
 
@@ -105,7 +116,7 @@ As a parent of 3 kids,
 We are new to the area, and I need to know where a good parkland is nearby for my children, they are young and require them to have a fence around. They are kids that love water, so a water-park would be preferred. I have one kid with a disability and he has a wheel chair, so I require disabled parking and access with a wheel chair to the park area. As they are running around we would require water fountains and bathroom facilities with a shower.
 
 
-# R5	Wireframes for multiple standard screen sizes, created using industry standard software
+# Wireframes
 *Provide UX/UI design documentation(wireframes) that adequately show Agile methodology implementation.*
 
 - For our wireframes, we used an application called Miro.
@@ -117,13 +128,13 @@ We are new to the area, and I need to know where a good parkland is nearby for m
 
 
 
-## Mobile Wireframes
+## Mobile
 
 ![mobile_wf1](https://user-images.githubusercontent.com/72953372/126584893-52787a21-309c-44d4-a90c-605439b506bb.png)
 ![mobile_wf2](https://user-images.githubusercontent.com/72953372/126584914-a135a29e-4a66-47bc-88b8-fe84197e57fa.png)
 
 
-## Tablet Wireframes
+## Tablet
 
 ![desktop_wf1](https://user-images.githubusercontent.com/72953372/126584937-b418f8f5-ccb0-440b-85a0-f27feee24d8a.png)
 ![desktop_wf2](https://user-images.githubusercontent.com/72953372/126584949-d192e36d-872c-4c2e-8cd3-f116c87fbe72.png)
@@ -131,14 +142,14 @@ We are new to the area, and I need to know where a good parkland is nearby for m
 
 
 
-## Desktop Wireframes
+## Desktop
 
 ![desktop_wf1](https://user-images.githubusercontent.com/72953372/126584758-4c9b9db5-d356-4cfd-9a15-a7922bd7c375.png)
 ![desktop_wf2](https://user-images.githubusercontent.com/72953372/126584815-6103b42f-df0a-4008-80e4-f3c1263734e8.png)
 ![desktop_wf3](https://user-images.githubusercontent.com/72953372/126584830-9db7c974-f0a3-47b3-abc7-a037ab37b077.png)
 
 
-# R6	Screenshots of your Trello board throughout the duration of the project
+# Trello Progress
 ![trello-image-1](https://user-images.githubusercontent.com/72952429/126571883-d3a7ce6f-db4c-4e1e-88d2-3461b12fe622.png)
 
 ![trello-image-2](https://user-images.githubusercontent.com/72952429/126571884-f1c15b64-a09c-4ff0-8c43-78caa0137304.png)
