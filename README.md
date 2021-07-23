@@ -161,3 +161,8 @@ We are new to the area, and I need to know where a good parkland is nearby for m
 ![trello-image-5](https://user-images.githubusercontent.com/72952429/126578179-8f89b2a5-3b5a-481c-b915-319d77666769.png)
 
 ![trello-image-6](https://user-images.githubusercontent.com/72952429/126578181-05e8d412-619d-4186-8838-9f383c8828a4.png)
+
+
+# Link to Presentation 23/7
+
+https://docs.google.com/presentation/d/1lwXO0eFBn7Io4ZHlZkYQvhEv7NTRcZ6Cl2kTj5x2bKI/edit#slide=id.p
