@@ -1,5 +1,6 @@
 const User = require('../models/user')
 const bcrypt = require('bcrypt')
+const jwt = require('jsonwebtoken')
 
 const signUp = function(req, res){
     const newUser = new User(req.body)
@@ -9,7 +10,8 @@ const signUp = function(req, res){
             res.status(400)
             return res.json({error: err.message})
         }
-        return res.json(user)
+   // This is how we create a new user with the jwt in the database
+        return res.json({username: user.username, jwt: jwt.sign({username: user.username, email: user.email, _id: user._id},"Thank you for using our website")})
     })
 }
 

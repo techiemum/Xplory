@@ -6,7 +6,7 @@ const parksRouter = require('./routes/parkRoutes')
 const authRouter = require('./routes/authRoutes')
 const port = 4000
 const app = express()
-const dbConn = 'mongodb://localhost/out_veggin_db'
+const dbConn = 'mongodb://localhost/xplory_db'
 
 app.use(cors())
 app.use(bodyParser.json())
