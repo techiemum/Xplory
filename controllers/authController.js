@@ -34,7 +34,7 @@ const loginRequired = function (req, res, next){
     if(req.user){
         next()
     }else{
-        return res.status(401).json({message: "You are not allowed, please log in."})
+        return res.status(401).json({message: "Sorry, i'm afraid I cant complete this process, please log in."})
     }
 }
 
