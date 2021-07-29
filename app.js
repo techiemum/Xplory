@@ -3,6 +3,7 @@ const cors = require('cors')
 const bodyParser = require('body-parser')
 const mongoose = require('mongoose')
 const parksRouter = require('./routes/parkRoutes')
+const authRouter = require('./routes/authRoutes')
 const port = 4000
 const app = express()
 const dbConn = 'mongodb://localhost/out_veggin_db'
@@ -14,7 +15,8 @@ mongoose.connect(dbConn,
     {
         // useNewUrlParser = true,
         // useUnifiedTopology = true,
-        // useFindAndModify = false
+        // useFindAndModify = false,
+        // useCreateIndex: true
     },
     err => {
         if (err){
@@ -29,4 +31,5 @@ mongoose.connect(dbConn,
     })
 
     app.use("/parks", parksRouter)
+    app.use("/auth", authRouter)
     app.listen(port, ()=>{console.log(`Out_Veggin server is successfully listening on port ${port}`)})
