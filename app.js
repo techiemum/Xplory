@@ -5,12 +5,16 @@ const jwt = require('jsonwebtoken')
 const mongoose = require('mongoose')
 const parksRouter = require('./routes/parkRoutes')
 const authRouter = require('./routes/authRoutes')
-const port = 4000
+const port = process.env.PORT || 4000
 const app = express()
-const dbConn = 'mongodb://localhost/xplory_db'
 
 app.use(cors())
 app.use(bodyParser.json())
+
+if (process.env.NODE_ENV !== 'production'){
+    require('dotenv').config()
+}
+const dbConn = process.env.MONGODB_URI
 
 mongoose.connect(dbConn, 
     {
@@ -30,7 +34,7 @@ mongoose.connect(dbConn,
     app.use((req, res, next) => {
         console.log("headers: ",req.header.authorization)
         if(req.headers && req.headers.authorization){
-            jwt.verify(req.headers.authorization.split(' ')[1], "what-a-great-secret", (err, decode)=>{
+            jwt.verify(req.headers.authorization.split(' ')[1], process.env.SECRET_KEY, (err, decode)=>{
                 if (err) {
                     req.user = undefined
                 }else{

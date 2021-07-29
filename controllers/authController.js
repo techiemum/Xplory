@@ -11,7 +11,7 @@ const signUp = function(req, res){
             return res.json({error: err.message})
         }
    // This is how we create a new user with the jwt in the database
-        return res.json({username: user.username, jwt: jwt.sign({username: user.username, email: user.email, _id: user._id},"Thank you for using our website")})
+        return res.json({username: user.username, jwt: jwt.sign({username: user.username, email: user.email, _id: user._id}, process.env.SECRET_KEY)})
     })
 }
 
@@ -25,7 +25,7 @@ const signIn = function (req, res) {
             return res.status(400)
             return res.json({message: "Authenication has failed im afraid"})
         }
-        return res.json({username: user.username, jwt: jwt.sign({username: user.username, email: user.email, _id: user._id},"what-a-great-secret")})
+        return res.json({username: user.username, jwt: jwt.sign({username: user.username, email: user.email, _id: user._id},"wh4t-4-gr34t-s3cr3t-key")})
     })
 }
 
