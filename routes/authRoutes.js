@@ -1,9 +1,9 @@
 const express = require('express')
 const parksRouter = express.Router()
 
-const {signUp} = require('../controllers/authController')
+const {signUp, signIn} = require('../controllers/authController')
 
 parksRouter.post('/sign_up', signUp)
-//parksRouter.post('/', newPark)
+parksRouter.post('/sign_in', signIn)
 
 module.exports = parksRouter
