@@ -25,8 +25,20 @@ const signIn = function (req, res) {
             return res.status(400)
             return res.json({message: "Authenication has failed im afraid"})
         }
-        return res.json({username: user.username, jwt: jwt.sign({username: user.username, email: user.email, _id: user._id},"Thank you for using our website")})
+        return res.json({username: user.username, jwt: jwt.sign({username: user.username, email: user.email, _id: user._id},"what-a-great-secret")})
     })
 }
 
-module.exports = {signUp, signIn}
+//next is a nodejs function
+const loginRequired = function (req, res, next){
+    console.log(req.user)
+    if(req.user){
+        next()
+    }else{
+        return res.status(401).json({message: "You are not allowed, please log in."})
+    }
+}
+
+
+
+module.exports = {signUp, signIn, loginRequired}
