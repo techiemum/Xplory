@@ -1,12 +1,13 @@
 const Park = require('../models/park')
 
 const getAllParks = function (req){
-    return Park.find()
+    return Park.find({username: req.user.username})
 }
 
 
 const addPark = function (req){
     let date = Date.now()
+    req.body.username = req.user.username
     req.body.park_created = date
     req.body.park_modifed = date
     return Park(req.body)
