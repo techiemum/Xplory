@@ -32,7 +32,6 @@ mongoose.connect(dbConn,
     })
 //This is the middlewear for the authorization process
     app.use((req, res, next) => {
-        console.log("headers: ",req.header.authorization)
         if(req.headers && req.headers.authorization){
             jwt.verify(req.headers.authorization.split(' ')[1], process.env.SECRET_KEY, (err, decode)=>{
                 if (err) {
