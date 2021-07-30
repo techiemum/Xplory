@@ -8,7 +8,7 @@ export default function Home() {
 			<h1>Home Page</h1>
 
 			<Button variant='contained' color='primary'>
-				Hello World
+				Hello Team
 			</Button>
 		</div>
 	);
