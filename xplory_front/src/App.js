@@ -1,5 +1,8 @@
 import React, { useState, useMemo } from "react";
 
+// routing
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+
 //Utils
 import { createMuiTheme, ThemeProvider, CssBaseline, useMediaQuery } from "@material-ui/core";
 
@@ -8,6 +11,7 @@ import "./assets/scss/app.scss";
 
 //Pages
 import Home from "./pages/Home";
+import Login from "./pages/Login";
 
 //Components
 import Header from "./components/Header";
@@ -39,11 +43,19 @@ const App = () => {
 
 	return (
 		<ThemeProvider theme={theme}>
-			<CssBaseline />
+
+		<Router>
+		<Switch>
+		<Route exact path='/' component={Home} />
+		<Route exact path='/login' component={Login} />
+		</Switch>
+		</Router>
+
+			{/* <CssBaseline />
 
 			<Header />
 
-			{switchPage()}
+			{switchPage()} */}
 		</ThemeProvider>
 	);
 };
