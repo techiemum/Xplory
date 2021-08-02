@@ -1,8 +1,9 @@
 import React,{useState} from 'react'
 
 import {Form,FormGroup,Input,Card,Button} from 'reactstrap'
-import './style.css'
-const Login = () => {
+
+
+const LoginForm = () => {
 
     const [form, setForm] = useState({email:'',password:''});
 
@@ -15,7 +16,7 @@ const Login = () => {
         console.log({form})
     }
 
-    return    <Card  className='m-5 p-5 w-50 transform'> <Form onSubmit={onSubmit} >
+    return    <Card className='m-5 p-5 w-50 transform'> <Form onSubmit={onSubmit} >
     <FormGroup>
     <Input type='email' name='email' placeholder='Email' value={email} onChange={onChange} />
     </FormGroup>
@@ -29,4 +30,4 @@ const Login = () => {
     </Form>
     </Card>
 }
-export default Login
+export default LoginForm

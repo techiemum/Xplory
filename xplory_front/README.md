@@ -1,13 +1,2 @@
-# [Create React App] Basic Template
-
-## Commands
-
-### Update the template
-
-```yarn publish```
-
-#### Remember to change the version in the package.json
-
-### Use the template
-
-```npx create-react-app my-app --template basic```
+# Hello and Welcome to Xplory!
+This is where we will add infomation on how to use this application and add in all the new updated we do.
