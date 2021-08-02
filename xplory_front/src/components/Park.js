@@ -3,7 +3,7 @@ import React from 'react';
 const Park =()=>{
 	return(
 		<div>
-            Welcome to the Park page
+            Welcome to your Park page
 		</div>
 	)
 }
