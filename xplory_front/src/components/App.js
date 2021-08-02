@@ -2,13 +2,6 @@ import React, { useState, useMemo } from "react";
 
 // routing
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-
-//Utils
-import { createMuiTheme, ThemeProvider, CssBaseline, useMediaQuery, switchPage } from "@material-ui/core";
-
-//Styles
-import "./assets/scss/app.scss";
-
 import Home from "./pages/Home";
 import Login from "./pages/Login";
 
