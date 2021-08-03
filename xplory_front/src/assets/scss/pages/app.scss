@@ -12,3 +12,7 @@ body {
 
 // Components
 @import "components/header";
+
+.transform {
+    transform:translateX(40%) translateY(50%)
+}
