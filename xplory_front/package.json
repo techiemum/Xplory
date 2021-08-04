@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.7",
+    "@react-google-maps/api": "^2.2.0",
     "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
     "node-sass": "^4.13.1",
