@@ -8,10 +8,10 @@ body {
 }
 
 // Page
-@import "pages/home";
+@import "./_home";
 
 // Components
-@import "components/header";
+// @import "components/header";
 
 .transform {
     transform:translateX(40%) translateY(50%)
