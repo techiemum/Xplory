@@ -6,28 +6,29 @@ import LoginForm from "./LoginForm"
 import Navigation from "./Navigation"
 import NotFound from "./NotFound"
 import Park from "./Park"
-import ParksForm from "./ParksForm"
+// import ParksForm from "./ParksForm"
 import Parks from "./Parks"
 
 
 // routing
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import Home from "./pages/Home";
-import Login from "./pages/Login";
+import Home from "./Home";
+import Login from "./LoginForm";
 
+import '../assets/scss/pages/app.scss'
 
 const App = () => {
-	const prefersDarkMode = useMediaQuery("(prefers-color-scheme: dark)");
+	// const prefersDarkMode = useMediaQuery("(prefers-color-scheme: dark)");
 	const [page, setPage] = useState(0);
-	const theme = useMemo(
-		() =>
-			createMuiTheme({
-				palette: {
-					type: prefersDarkMode ? "dark" : "light"
-				}
-			}),
-		[prefersDarkMode]
-	);
+	// const theme = useMemo(
+	// 	() =>
+	// 		createMuiTheme({
+	// 			palette: {
+	// 				type: prefersDarkMode ? "dark" : "light"
+	// 			}
+	// 		}),
+	// 	[prefersDarkMode]
+	// );
 
 	const handleChangePage = (event, newPage) => {
 		setPage(newPage);
