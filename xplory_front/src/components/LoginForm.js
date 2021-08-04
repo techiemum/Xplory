@@ -2,8 +2,10 @@ import React,{useState} from 'react'
 
 import {Form,FormGroup,Input,Card,Button} from 'reactstrap'
 
+import axios from 'axios'
 
-const LoginForm = () => {
+
+const LoginForm = (props) => {
 
     const [form, setForm] = useState({email:'',password:''});
 
@@ -15,6 +17,16 @@ const LoginForm = () => {
         e.preventDefault();
         console.log({form})
     }
+
+    const login = async (form) => {
+        try {
+            const res = await axios.post('',form)
+        } catch (err) {
+            
+        }
+    }
+
+    
 
     return    <Card className='m-5 p-5 w-50 transform'> <Form onSubmit={onSubmit} >
     <FormGroup>
