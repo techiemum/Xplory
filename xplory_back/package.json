@@ -27,6 +27,7 @@
     "normalize-mongoose": "0.0.1"
   },
   "devDependencies": {
+    "cypress": "^8.2.0",
     "expect": "^27.0.6",
     "mocha": "^9.0.3",
     "nodemon": "^2.0.12"
