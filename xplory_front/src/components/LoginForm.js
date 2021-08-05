@@ -25,10 +25,7 @@ const LoginForm = (props) => {
             
         }
     }
-
-    
-
-    return    <Card className='m-5 p-5 w-50 transform'> <Form onSubmit={onSubmit} >
+    return <Card className='m-5 p-5 w-50 transform'> <Form onSubmit={onSubmit} >
     <FormGroup>
     <Input type='email' name='email' placeholder='Email' value={email} onChange={onChange} />
     </FormGroup>
@@ -36,6 +33,7 @@ const LoginForm = (props) => {
     <FormGroup>
     <Input type='password' name='password' placeholder='Password' value={password} onChange={onChange} />
     </FormGroup>
+
     <FormGroup>
     <Button className='w-100' color='primary' type='submit' >Login</Button>
     </FormGroup>
