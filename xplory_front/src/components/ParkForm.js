@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-const ParksForm =({history, loggedInUser, addPark})=>{
+const ParkForm =({history, loggedInUser, addPark})=>{
 	const initialFormData = {
 		text: ""
 	}
@@ -17,4 +17,4 @@ const ParksForm =({history, loggedInUser, addPark})=>{
 	}
 }
 
-export default ParksForm
+export default ParkForm
