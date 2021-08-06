@@ -18,10 +18,8 @@ const dbConn = process.env.MONGODB_URI
 
 mongoose.connect(dbConn, 
     {
-        // useNewUrlParser = true,
-        // useUnifiedTopology = true,
-        // useFindAndModify = false,
-        // useCreateIndex: true
+        useNewUrlParser: true,
+        useCreateIndex: true
     },
     err => {
         if (err){
