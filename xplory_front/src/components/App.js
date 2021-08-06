@@ -8,12 +8,14 @@ import NotFound from "./NotFound"
 import Park from "./Park"
 import ParkForm from "./ParkForm"
 import Parks from "./Parks"
+import SignupForm from "./SignupForm"
 
 
 // routing
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from "./Home";
 import Login from "./LoginForm";
+
 
 import '../assets/scss/pages/app.scss'
 
@@ -55,6 +57,7 @@ const App = () => {
 		<Route exact path='/Park' component={Park} />
 		<Route exact path='/Parks' component={Parks} />
 		<Route exact path='/NotFount' component={NotFound} />
+		<Route exact path='/Signup' component={SignupForm} />
 		</Switch>
 		</Router>
 		
